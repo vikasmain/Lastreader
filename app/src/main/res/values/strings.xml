@@ -1,0 +1,322 @@
+<resources>
+    <string name="app_name">Relax</string>
+    <string name="drawer_opened">Drawer opened</string>
+     <string name="action_settings">Settings</string> <string name="example_button">Example showing Button</string>
+    <string name="drawer_closed">Drawer closed</string>
+    <string name="cp">#include&lt;iostream.h&gt;\n#include&lt;conio.h&gt;\nvoid main()\n{\ncout&lt;&lt;&quot;this\nis\nmy\n first\n program\n start is nice\n but not extraordinary\nbut no problem\n prevention\n is \nbetter\n than\n cure&quot;</string>
+    <string name="op">"Lets C++ pro </string>
+    <string name="vik2">vikas is a good guy</string>
+    <string name="tui">Plane makes an angle of 60° with the x – axis. Hence, θ = 60°
+Flux,fig:12.1
+= 3 × 103 × 0.01 × cos 60° =30×12
+= 15 N m2/CvikasEXERCISES
+1.1 What is the force between two small charged spheres having
+charges of 2 × 10–7C and 3 × 10–7C placed 30 cm apart in air?
+1.2 The electrostatic force on a small sphere of charge 0.4 μC due to
+another small sphere of charge – 0.8 μC in air is 0.2 N. (a) What is
+the distance between the two spheres? (b) What is the force on the
+second sphere due to the first?
+1.3 Check that the ratio ke2/G memp is dimensionless. Look up a Table
+of Physical Constants and determine the value of this ratio. What
+does the ratio signify?
+1.4 (a) Explain the meaning of the statement ‘electric charge of a body
+is quantised’.
+(b) Why can one ignore quantisation of electric charge when dealing
+with macroscopic i.e., large scale charges?
+1.5 When a glass rod is rubbed with a silk cloth, charges appear on
+both. A similar phenomenon is observed with many other pairs of
+bodies. Explain how this observation is consistent with the law of
+conservation of charge.
+1.6 Four point charges qA = 2 μC, qB = –5 μC, qC = 2 μC, and qD = –5 μC are
+located at the corners of a square ABCD of side 10 cm. What is the
+force on a charge of 1 μC placed at the centre of the square?
+1.7 (a) An electrostatic field line is a continuous curve. That is, a field
+line cannot have sudden breaks. Why not?
+(b) Explain why two field lines never cross each other at any point?
+1.8 Two point charges qA = 3 μC and qB = –3 μC are located 20 cm apart
+in vacuum.
+(a) What is the electric field at the midpoint O of the line AB joining
+the two charges?
+(b) If a negative test charge of magnitude 1.5 × 10–9 C is placed at
+this point, what is the force experienced by the test charge?
+1.9 A system has two charges qA = 2.5 × 10–7 C and qB = –2.5 × 10–7 C
+located at points A: (0, 0, –15 cm) and B: (0,0, +15 cm), respectively.
+What are the total charge and electric dipole moment of the system?
+1.10 An electric dipole with dipole moment 4 × 10–9 C m is aligned at 30°
+with the direction of a uniform electric field of magnitude 5 × 104 NC–1.
+Calculate the magnitude of the torque acting on the dipole.
+1.11 A polythene piece rubbed with wool is found to have a negative
+charge of 3 × 10–7 C.
+(a) Estimate the number of electrons transferred (from which to
+which?)
+(b) Is there a transfer of mass from wool to polythene?
+1.12 (a) Two insulated charged copper spheres A and B have their centres
+separated by a distance of 50 cm. What is the mutual force of
+Electric Charges
+and Fields
+47
+electrostatic repulsion if the charge on each is 6.5 × 10–7 C? The
+radii of A and B are negligible compared to the distance of
+separation.
+(b) What is the force of repulsion if each sphere is charged double
+the above amount, and the distance between them is halved?
+1.13 Suppose the spheres A and B in Exercise 1.12 have identical sizes.
+A third sphere of the same size but uncharged is brought in contact
+with the first, then brought in contact with the second, and finally
+removed from both. What is the new force of repulsion between A
+and B?
+1.14 Figure 1.33 shows tracks of three charged particles in a uniform
+electrostatic field. Give the signs of the three charges. Which particle
+has the highest charge to mass ratio?
+FIGURE 1.33
+1.15 Consider a uniform electric field E = 3 × 103 î N/C. (a) What is the
+flux of this field through a square of 10 cm on a side whose plane is
+parallel to the yz plane? (b) What is the flux through the same
+square if the normal to its plane makes a 60° angle with the x-axis?
+1.16 What is the net flux of the uniform electric field of Exercise 1.15
+through a cube of side 20 cm oriented so that its faces are parallel
+to the coordinate planes?
+1.17 Careful measurement of the electric field at the surface of a black
+box indicates that the net outward flux through the surface of the
+box is 8.0 × 103 Nm2/C. (a) What is the net charge inside the box?
+(b) If the net outward flux through the surface of the box were zero,
+could you conclude that there were no charges inside the box? Why
+or Why not?
+1.18 A point charge +10 μC is a distance 5 cm directly above the centre
+of a square of side 10 cm, as shown in Fig. 1.34. What is the
+magnitude of the electric flux through the square? (Hint: Think of
+the square as one face of a cube with edge 10 cm.)
+FIGURE 1.34
+48
+Physics
+1.19 A point charge of 2.0 μC is at the centre of a cubic Gaussian
+surface 9.0 cm on edge. What is the net electric flux through the
+surface?
+1.20 A point charge causes an electric flux of –1.0 × 103 Nm2/C to pass
+through a spherical Gaussian surface of 10.0 cm radius centred on
+the charge. (a) If the radius of the Gaussian surface were doubled,
+how much flux would pass through the surface? (b) What is the
+value of the point charge?
+1.21 A conducting sphere of radius 10 cm has an unknown charge. If
+the electric field 20 cm from the centre of the sphere is 1.5 × 103 N/C
+and points radially inward, what is the net charge on the sphere?
+1.22 A uniformly charged conducting sphere of 2.4 m diameter has a
+surface charge density of 80.0 μC/m2. (a) Find the charge on the
+sphere. (b) What is the total electric flux leaving the surface of the
+sphere?
+1.23 An infinite line charge produces a field of 9 × 104 N/C at a distance
+of 2 cm. Calculate the linear charge density.
+1.24 Two large, thin metal plates are parallel and close to each other. On
+their inner faces, the plates have surface charge densities of opposite
+signs and of magnitude 17.0 × 10–22 C/m2. What is E: (a) in the outer
+region of the first plate, (b) in the outer region of the second plate,
+and (c) between the plates?
+ADDITIONAL EXERCISES
+1.25 An oil drop of 12 excess electrons is held stationary under a constant
+electric field of 2.55 × 104 NC–1 in Millikan’s oil drop experiment. The
+density of the oil is 1.26 g cm–3. Estimate the radius of the drop.
+(g = 9.81 m s–2; e = 1.60 × 10–19 C).
+1.26 Which among the curves shown in</string>
+    <string name="io4">Question 1.1:
+What is the force between two small charged spheres having charges of 2 × 10−7 C and 3 × 10−7 C placed 30 cm apart in air?
+Answer 1.1:
+Repulsive force of magnitude 6 × 10−3 N
+Charge on the first sphere, q1 = 2 × 10−7 C
+Charge on the second sphere, q2 = 3 × 10−7 C
+Distance between the spheres, r = 30 cm = 0.3 m
+Electrostatic force between the spheres is given by the relation 𝐹=14𝜋𝜀0.𝑞1𝑞2𝑟2 Where, 𝜀0 = Permittivity of free space and 14𝜋𝜀0=9×109 Nm2C−2
+Therefore, force F=9×109×2×10−7(0.3)2=6×10−3N
+Hence, force between the two small charged spheres is 6 × 10−3 N. The charges are of same nature. Hence, force between them will be repulsive.
+Question 1.2:
+The electrostatic force on a small sphere of charge 0.4 μC due to another small sphere of charge − 0.8 μC in air is 0.2 N.
+(a) What is the distance between the two spheres?
+(b) What is the force on the second sphere due to the first?
+Physics
+(www.tiwariacademy.net)
+(Chapter – 1) (Electric Charges and Fields)
+(Class – XII)
+A Free web support in Education
+2
+Answer 1.2:
+(a) Electrostatic force on the first sphere, F = 0.2 N
+Charge on this sphere, q1 = 0.4 μC = 0.4 × 10−6 C
+Charge on the second sphere, q2 = − 0.8 μC = − 0.8 × 10−6 C
+Electrostatic force between the spheres is given by the relation
+The distance between the two spheres is 0.12 m.
+(b) Both the spheres attract each other with the same force. Therefore, the force on the second sphere due to the first is 0.2 N.
+Question 1.3:
+Check that the ratio ke2/G memp is dimensionless. Look up a Table of Physical
+Constants and determine the value of this ratio. What does the ratio signify?
+Answer 1.3:
+The given ratio is Where,
+G = Gravitational constant. Its unit is N m2 kg−2
+Physics
+(www.tiwariacademy.net)
+(Chapter – 1) (Electric Charges and Fields)
+(Class – XII)
+A Free web support in Education
+3
+me and mp = Masses of electron and proton and their unit is kg.
+e = Electric charge. Its unit is C.
+nce, the given ratio is dimensionless.
+e = 1.6 × 10−19 C
+G = 6.67 × 10−11 N m2 kg-2
+me= 9.1 × 10−31 kg
+mp = 1.66 × 10−27 kg
+Hence, the numerical value of the given ratio is 9×109×(1.6 × 10−19)26.67×10−11×9.1×10−31×1.67×10−27≈2.3×1039
+This is the ratio of electric force to the gravitational force between a proton and an electron, keeping distance between them constant.
+Question 1.4:
+(a) Explain the meaning of the statement ‘electric charge of a body is quantised’.
+(b) Why can one ignore quantisation of electric charge when dealing with macroscopic i.e., large scale charges?
+Answer 1.4:
+(a) Electric charge of a body is quantized. This means that only integral (1, 2… n) number of electrons can be transferred from one body to the other.
+Physics
+(www.tiwariacademy.net)
+(Chapter – 1) (Electric Charges and Fields)
+(Class – XII)
+A Free web support in Education
+4
+Charges are not transferred in fraction. Hence, a body possesses total charge only in integral multiples of electric charge.
+(b) In macroscopic or large scale charges, the charges used are huge as compared to the magnitude of electric charge. Hence, quantization of electric charge is of no use on macroscopic scale. Therefore, it is ignored and it is considered that electric charge is continuous.
+Question 1.5:
+When a glass rod is rubbed with a silk cloth, charges appear on both. A similar phenomenon is observed with many other pairs of bodies. Explain how this observation is consistent with the law of conservation of charge.
+Answer 1.5:
+Rubbing produces charges of equal magnitude but of opposite nature on the two bodies because charges are created in pairs. This phenomenon of charging is called charging by friction. The net charge on the system of two rubbed bodies is zero. This is because equal amount of opposite charges annihilate each other. When a glass rod is rubbed with a silk cloth, opposite natured charges appear on both the bodies. This phenomenon is in consistence with the law of conservation of energy. A similar phenomenon is observed with many other pairs of bodies.
+Question 1.6:
+Four point charges qA = 2 μC, qB = −5 μC, qC = 2 μC, and qD = −5 μC are located at the corners of a square ABCD of side 10 cm. What is the force on a charge of 1 μC placed at the centre of the square?
+Answer 1.6:
+The given figure shows a square of side 10 cm with four charges placed at its corners. O is the centre of the square.
+Physics
+(www.tiwariacademy.net)
+(Chapter – 1) (Electric Charges and Fields)
+(Class – XII)
+A Free web support in Education
+5
+Where,
+(Sides) AB = BC = CD = AD = 10 cm
+(Diagonals) AC = BD = 10√2 cm
+AO = OC = DO = OB = 5√2 cm
+A charge of amount 1μC is placed at point O.
+Force of repulsion between charges placed at corner A and centre O is equal in magnitude but opposite in direction relative to the force of repulsion between the charges placed at corner C and centre O. Hence, they will cancel each other. Similarly, force of attraction between charges placed at corner B and centre O is equal in magnitude but opposite in direction relative to the force of attraction between the charges placed at corner D and centre O. Hence, they will also cancel each other. Therefore, net force caused by the four charges placed at the corner of the square on 1 μC charge at centre O is zero.
+Question 1.7:
+(a) An electrostatic field line is a continuous curve. That is, a field line cannot have sudden breaks. Why not?
+(b) Explain why two field lines never cross each other at any point?
+Answer 1.7:
+(a) An electrostatic field line is a continuous curve because a charge experiences a continuous force when traced in an electrostatic field. The field
+Physics
+(www.tiwariacademy.net)
+(Chapter – 1) (Electric Charges and Fields)
+(Class – XII)
+A Free web support in Education
+6
+line cannot have sudden breaks because the charge moves continuously and does not jump from one point to the other.
+(b) If two field lines cross each other at a point, then electric field intensity will show two directions at that point. This is not possible. Hence, two field lines never cross each other.
+Question 1.8:
+Two point charges qA = 3 μC and qB = −3 μC are located 20 cm apart in vacuum.
+(a) What is the electric field at the midpoint O of the line AB joining the two charges?
+(b) If a negative test charge of magnitude 1.5 × 10−9 C is placed at this point, what is the force experienced by the test charge?
+Answer 1.8:
+(a) The situation is represented in the given figure. O is the mid-point of line AB.
+Distance between the two charges, AB = 20 cm
+∴ AO = OB = 10 cm
+Net electric field at point O = E
+Electric field at point O caused by +3μC charge,
+
+Therefore, the electric field at mid-point O is 5.4 × 106 N C−1 along OB.
+(b) A test charge of amount 1.5 × 10−9 C is placed at mid – point O.
+q = 1.5 × 10−9 C
+Force experienced by the test charge = F
+∴ F = qE
+= 1.5 × 10−9 × 5.4 × 106
+= 8.1 × 10−3 N
+The force is directed along line OA. This is because the negative test charge is repelled by the charge placed at point B but attracted towards point A.
+Therefore, the force experienced by the test charge is 8.1 × 10−3 N along OA.
+Physics
+(www.tiwariacademy.net)
+(Chapter – 1) (Electric Charges and Fields)
+(Class – XII)
+A Free web support in Education
+8
+Question 1.9:
+A system has two charges qA = 2.5 × 10−7 C and qB = −2.5 × 10−7 C located at points A: (0, 0, − 15 cm) and B: (0, 0, + 15 cm), respectively. What are the total charge and electric dipole moment of the system?
+Answer 1.9:
+Both the charges can be located in a coordinate frame of reference as shown in the given figure.
+At A, amount of charge, qA = 2.5 × 10−7C
+At B, amount of charge, qB = −2.5 × 10−7 C
+Total charge of the system, q = qA + qB = 2.5 × 107 C − 2.5 × 10−7 C = 0
+Distance between two charges at points A and B,
+d = 15 + 15 = 30 cm = 0.3 m
+Electric dipole moment of the system is given by, p
+= qA × d = qB × d = 2.5 × 10−7 × 0.3
+= 7.5 × 10−8 C m along positive z-axis
+Therefore, the electric dipole moment of the system is 7.5 × 10−8 C m along positive z−axis.
+Physics
+(www.tiwariacademy.net)
+(Chapter – 1) (Electric Charges and Fields)
+(Class – XII)
+A Free web support in Education
+9
+Question 1.10:
+An electric dipole with dipole moment 4 × 10−9 C m is aligned at 30° with the direction of a uniform electric field of magnitude 5 × 104 N C−1. Calculate the magnitude of the torque acting on the dipole.
+Answer 1.10:
+Electric dipole moment, p = 4 × 10−9 C m
+Angle made by p with a uniform electric field, θ = 30°
+Electric field, E = 5 × 104 N C−1
+Torque acting on the dipole is given by the relation, τ = pE sinθ =4×10−9×5×104×sin30=20×10−5×12=10−4 Nm
+Therefore, the magnitude of the torque acting on the dipole is 10−4 N m.
+Question 1.11:
+A polythene piece rubbed with wool is found to have a negative charge of 3 × 10−7 C.
+(a) Estimate the number of electrons transferred (from which to which?)
+(b) Is there a transfer of mass from wool to polythene?
+Answer 1.11:
+(a) When polythene is rubbed against wool, a number of electrons get transferred from wool to polythene. Hence, wool becomes positively charged and polythene becomes negatively charged.
+Amount of charge on the polythene piece, q = −3 × 10−7 C
+Amount of charge on an electron, e = −1.6 × 10−19 C Number of electrons transferred from wool to polythene = n
+n can be calculated using the relation, q = ne 𝑛=𝑞𝑒=−3×10−7−1.6×10−19=1.87×1012
+Physics
+(www.tiwariacademy.net)
+(Chapter – 1) (Electric Charges and Fields)
+(Class – XII)
+A Free web support in Education
+10
+Therefore, the number of electrons transferred from wool to polythene is 1.87 × 1012.
+(b) Yes.
+There is a transfer of mass taking place. This is because an electron has mass, me = 9.1 × 10−3 kg
+Total mass transferred to polythene from</string>
+    <string name="enter_text1"/> <string name="enter_text2"/> <string name="enter_text3"/> <string name="click_button">Calculate product of 3 numbers</string>
+    <string name="vik">Download the latest JDK (Java distribution)\n
+Download the Eclipse IDE (e.g. Galileo) from:\n
+www.eclipse.org/downloads/\n
+ Install the Android SDK st\narter package from:\n
+http://developer.android.com/sdk/index.html\n
+ In Eclipse, install the ADT (Android Developer\n
+Tools) plugin:\n
+http://developer.android.com/sdk/eclipse-adt.html\n
+ Instructions on setting up the SDK and\n
+development Environment can be found</string>
+    <string-array name="hero">
+        <item>Gaurav</item>
+        <item>farahan</item>
+        <item>katua</item>
+        <item>Sharmaji</item>
+        <item>Arun</item>
+        <item>Kaua</item>
+        <item>Polio</item>
+        <item>Zeb</item>
+        <item>Chin</item>
+        <item>Cheeky</item>
+        <item>Vikas</item>
+        <item>Halua</item>
+    </string-array>
+
+
+    <string name="hanuman_chalisa"> श्रीगुरु चरण् सरोजरज, निजमनमुकुर सुधार ।\n बरणौ रघुबर बिमल यश, जो दायक फलचार ॥\n\n बुद्धिहीन तनु जानिके, सुमिरौं पवन कुमार ।\n बल बुद्धिविद्या देहु मोहिं, हरहु कलेश विकार ॥</string>
+    <string name="ab">Founder\nVikas Bajpayee\n\nDirector \nAkshay Dhull\nhello guys this is the app for all cbse board 10ties and 12thies </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="demo_external_activity">Demo External Activity</string>
+
+    <string name="demo_collection">Demo Collection</string>
+</resources>

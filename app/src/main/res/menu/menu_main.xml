@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/green"
+        android:title="Green theme"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/blue"
+        android:title="Calculator"
+        android:showAsAction="never"/>
+
+
+</menu>
